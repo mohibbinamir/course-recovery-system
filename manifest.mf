@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: crs.Main
+Class-Path: lib/itextpdf-5.5.13.3.jar lib/javax.mail.jar
